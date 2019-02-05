@@ -1,0 +1,28 @@
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\bin\Debug\maze.exe.config
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\bin\Debug\maze.exe
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\bin\Debug\maze.pdb
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\obj\Debug\maze.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\obj\Debug\maze.Form1.resources
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\obj\Debug\maze.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\obj\Debug\maze.exe
+C:\Users\Toshiba\Documents\gold_file\pro1\maze\maze\obj\Debug\maze.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\bin\Debug\maze.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.exe
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\bin\Debug\maze.exe
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\bin\Debug\maze.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.Form1.resources
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.csproj.GenerateResource.Cache
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\bin\Debug\maze.exe.config
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\bin\Debug\maze.exe
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\bin\Debug\maze.pdb
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.Form1.resources
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.Properties.Resources.resources
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.csproj.GenerateResource.cache
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.exe
+E:\old_data\Toshiba\Documents\Visual Studio 2012\Projects\maze\maze\obj\Debug\maze.pdb

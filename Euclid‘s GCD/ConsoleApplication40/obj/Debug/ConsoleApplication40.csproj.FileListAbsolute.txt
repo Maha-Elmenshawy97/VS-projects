@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\ConsoleApplication40\ConsoleApplication40\bin\Debug\ConsoleApplication40.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\ConsoleApplication40\ConsoleApplication40\obj\Debug\ConsoleApplication40.pdb

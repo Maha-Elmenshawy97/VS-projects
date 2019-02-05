@@ -1,0 +1,10 @@
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\bin\Debug\Brille_code.exe.config
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\bin\Debug\Brille_code.exe
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\bin\Debug\Brille_code.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.csprojAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.csproj.GenerateResource.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.exe
+C:\Users\Home\Documents\Visual Studio 2017\Projects\Brille_code\Brille_code\obj\Debug\Brille_code.pdb

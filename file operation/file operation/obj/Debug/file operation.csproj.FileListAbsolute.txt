@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\file operation\file operation\bin\Debug\file operation.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\file operation\file operation\bin\Debug\file operation.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\file operation\file operation\bin\Debug\file operation.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\file operation\file operation\obj\Debug\file operation.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\file operation\file operation\obj\Debug\file operation.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\file operation\file operation\obj\Debug\file operation.pdb

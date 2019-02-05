@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\stream writer\stream writer\bin\Debug\stream writer.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\stream writer\stream writer\bin\Debug\stream writer.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\stream writer\stream writer\bin\Debug\stream writer.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\stream writer\stream writer\obj\Debug\stream writer.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\stream writer\stream writer\obj\Debug\stream writer.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\stream writer\stream writer\obj\Debug\stream writer.pdb

@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\bin\Debug\maze_project.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\bin\Debug\maze_project.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\bin\Debug\maze_project.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\obj\Debug\maze_project.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\obj\Debug\maze_project.Form1.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\obj\Debug\maze_project.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\obj\Debug\maze_project.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\obj\Debug\maze_project.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\maze_project\maze_project\obj\Debug\maze_project.pdb

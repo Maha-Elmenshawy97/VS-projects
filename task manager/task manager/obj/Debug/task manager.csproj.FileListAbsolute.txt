@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\bin\Debug\task manager.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\bin\Debug\task manager.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\bin\Debug\task manager.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\obj\Debug\task manager.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\obj\Debug\task_manager.Form1.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\obj\Debug\task_manager.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\obj\Debug\task manager.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\obj\Debug\task manager.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\task manager\task manager\obj\Debug\task manager.pdb

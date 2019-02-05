@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\bin\Debug\mazegame.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\bin\Debug\mazegame.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\bin\Debug\mazegame.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\obj\Debug\mazegame.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\obj\Debug\mazegame.Form1.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\obj\Debug\mazegame.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\obj\Debug\mazegame.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\obj\Debug\mazegame.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\mazegame\mazegame\obj\Debug\mazegame.pdb
